@@ -4,7 +4,7 @@ A NEURAL NETWORK FROM SCRATCH — No Deep Learning Frameworks
 Implements a fully-connected multi-layer neural network using ONLY NumPy.
 
 Features:
-  1. Modular Layer/Network architecture (forward/backward interfaces)
+  1. Modular Layer/Network architecture (forward/backward interfaces).
   2. Custom activation functions (ReLU, Softmax) with analytic gradients
   3. Cross-entropy loss with numerical stability (log-sum-exp trick)
   4. Full backpropagation via the chain rule — computed by hand
