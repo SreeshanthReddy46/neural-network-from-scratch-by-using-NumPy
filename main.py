@@ -22,7 +22,6 @@ Mathematics involved:
   - Probability:  softmax turns logits into a probability distribution
   - Optimization:  gradient descent with momentum + regularization
 
-Author: Sarvam AI Assistant
 """
 
 import os
